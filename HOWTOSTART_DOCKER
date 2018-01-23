@@ -1,0 +1,2 @@
+docker build . -t face_server
+./run_server.sh
